@@ -526,8 +526,8 @@
 	new /obj/item/storage/box/inteq_kit/chameleon_hardsuit(src)
 	new /obj/item/pinpointer/crew/contractor(src)
 	new /obj/item/clothing/mask/chameleon(src)
-	new /obj/item/card/id/syndicate(src)
-	new /obj/item/storage/fancy/cigarettes/cigpack_syndicate(src)
+	new /obj/item/card/id/inteq/advanced(src)
+	new /obj/item/storage/fancy/cigarettes/cigpack_inteq(src)
 	new /obj/item/lighter/contractor(src)
 
 /obj/item/storage/box/syndie_kit/contract_kit/PopulateContents()
